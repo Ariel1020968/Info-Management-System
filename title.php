@@ -1,5 +1,5 @@
 <html>
 <head>
-<title>JEACS CLIENT'S INFORMATION MANAGEMENT SYSTEM</title>
+<title>JEACS CLIENT INFORMATION MANAGEMENT SYSTEM</title>
 </head>
 </html>
